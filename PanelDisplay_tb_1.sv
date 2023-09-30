@@ -9,7 +9,7 @@ integer frame_cnt;
 logic write_frame;
 string s;
 
-// DUT SIGNALS
+// OUT SIGNALS
 logic clk;
 logic rst;
 
