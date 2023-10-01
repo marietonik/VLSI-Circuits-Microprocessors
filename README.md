@@ -1,6 +1,6 @@
 # Embedded-Circuits-VLSI
 
-## * Panel Display
+## Panel Display
 A repository containing projects of "VLSI Designs" using Verilog and implementing them on FPGAs.
 
 -----------
@@ -19,6 +19,7 @@ The Panel Display files create a vga file that can be used in a vga simulator di
 
 ![Phase_No_2](https://user-images.githubusercontent.com/53263761/180606675-181dcfac-3650-41ba-b853-fc4d96a2b64f.png)
 
+-----------
 ## Venting Machine with Keil Uvision
 A repository containing assembly code for an ARM processor which can function as a venting machine.
 
