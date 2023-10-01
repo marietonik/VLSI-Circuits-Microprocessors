@@ -1,6 +1,6 @@
 # Embedded-Circuits-VLSI
 
-## Panel Display
+## * Panel Display
 A repository containing projects of "VLSI Designs" using Verilog and implementing them on FPGAs.
 
 -----------
