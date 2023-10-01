@@ -1,0 +1,8 @@
+--cpu Cortex-M0+
+".\startup_mkl25z4.o"
+".\system_mkl25z4.o"
+".\main.o"
+--library_type=microlib --strict --scatter ".\BasicUI.sct"
+--libpath E:\Keil\ARM\ARMCC\lib --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\BasicUI.map" -o .\BasicUI.axf

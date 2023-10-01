@@ -1,0 +1,19 @@
+Dependencies for Project 'BasicUI', Target 'KL25Z Flash': (DO NOT MODIFY !)
+F (.\startup_MKL25Z4.s)(0x52C30D8A)(--cpu Cortex-M0+ --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I"C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\Microprocessors\Microprocessors_Project_57807\Project\RTE\_KL25Z_Flash"-IE:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IE:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"-o .\startup_mkl25z4.o --depend .\startup_mkl25z4.d)
+F (.\src\system_MKL25Z4.c)(0x52762FD2)(-c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I"C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\Microprocessors\Microprocessors_Project_57807\Project\RTE\_KL25Z_Flash"-IE:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IE:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DMKL25Z128xxx4-o .\system_mkl25z4.o --list_dir ".\\" --list --omf_browse .\system_mkl25z4.crf --depend .\system_mkl25z4.d)
+I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x57F65B18)
+I (E:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.h)(0x55FBAEC8)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h)(0x58258E3E)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x58258E3E)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x58258E3E)
+I (E:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\system_MKL25Z4.h)(0x55FBAEC8)
+F (.\src\main.c)(0x61DAC381)(-c --cpu Cortex-M0+ -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I include-I"C:\Users\Marietonik\Desktop\Marieta\DUTh\7th semester\Microprocessors\Microprocessors_Project_57807\Project\RTE\_KL25Z_Flash"-IE:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IE:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DMKL25Z128xxx4-o .\main.o --list_dir ".\\" --list --omf_browse .\main.crf --depend .\main.d)
+I (E:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\MKL25Z4.H)(0x55FBAEC8)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h)(0x58258E3E)
+I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x57F65B18)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x58258E3E)
+I (E:\Keil\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x58258E3E)
+I (E:\Keil\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.15.0\Device\Include\system_MKL25Z4.h)(0x55FBAEC8)
+F (.\include\gpio_defs.h)(0x51A59D30)()
+F (.\include\lcd_4bit.h)(0x50E2AE20)()
+F (.\include\switches.h)(0x51A59D30)()
